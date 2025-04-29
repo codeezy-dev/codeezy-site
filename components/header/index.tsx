@@ -6,13 +6,13 @@ import { ModeToggle } from "@/components/menu-toggle";
 
 const navItems = [
   {
-    label: "Home",
-    href: "/",
+    label: "Services",
+    href: "/services",
     target: false,
   },
   {
-    label: "Blog",
-    href: "/blog",
+    label: "Projects",
+    href: "/projects",
     target: false,
   },
   {
